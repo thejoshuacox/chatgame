@@ -1,0 +1,16 @@
+{
+  "name": "chatgame",
+  "version": "1.0.0",
+  "description": "My first attempt at creating some kind of interactive chatGPT game!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "chat",
+    "game"
+  ],
+  "author": "Joshua Cox",
+  "license": "ISC"
+}
